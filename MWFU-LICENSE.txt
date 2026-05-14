@@ -57,9 +57,7 @@ This License terminates automatically if you fail to comply with its terms.
 Upon termination, you must delete all copies of the Work in your possession.
 
 6. THIRD-PARTY FOUNDATION
-
----
-
+---------------------
 This Work is derived from ModularWarfare originally created by Protoxy.
 
 Original project:
@@ -67,7 +65,6 @@ https://github.com/ModularMods/ModularWarfare
 
 This Work is an independent fork and is not affiliated with,
 endorsed by, or connected to the original ModularWarfare project.
-
 
 
 ================================================================================
