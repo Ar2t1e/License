@@ -36,8 +36,6 @@ You are permitted to:
 ---------------------
 Without prior written permission from Ar2ti1e, you are prohibited from:
 
-  - Decompiling, disassembling, or reverse engineering the source code
-    of the Work.
   - Modifying the source code or internal files of the Work.
   - Redistributing modified versions of the Work in any form.
   - Using the source code of the Work in your own projects.
